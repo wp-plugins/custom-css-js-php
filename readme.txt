@@ -18,18 +18,18 @@ Now it's super easy to execute your PHP code anywhere on your wordpress site e.g
 write a plugin to integrate additional functionality using actions or filters.  
 
 = Features =
-*Implement CSS code using Shortcode
-*Implement CSS code using wp_head()
-*Implement CSS code using wp_footer()
-*Implement JAVASCRIPT code using Shortcode
-*Implement JAVASCRIPT code using wp_head()
-*Implement JAVASCRIPT code using wp_footer()
-*Implement PHP code using Shortcode
-*Implement PHP code using actions supported by wordpress or custom actions
-*Implement PHP code using filters supported by wordpress or custom filters
-*Export all custom programming and import into another site
-*Implement coding without giving access to FTP
-*Create unlimited css/javascript/php snnipet code and manage them seperately
+* Implement CSS code using Shortcode
+* Implement CSS code using wp_head()
+* Implement CSS code using wp_footer()
+* Implement JAVASCRIPT code using Shortcode
+* Implement JAVASCRIPT code using wp_head()
+* Implement JAVASCRIPT code using wp_footer()
+* Implement PHP code using Shortcode
+* Implement PHP code using actions supported by wordpress or custom actions
+* Implement PHP code using filters supported by wordpress or custom filters
+* Export all custom programming and import into another site
+* Implement coding without giving access to FTP
+* Create unlimited css/javascript/php snnipet code and manage them seperately
 
 Notes:
 
