@@ -6,6 +6,7 @@ class Wce_List_Table extends WP_List_Table
 
 {
 
+    var $items,$table,$data_type;
     function __construct()
     {
         parent::__construct(array(

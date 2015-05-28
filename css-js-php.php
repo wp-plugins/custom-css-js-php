@@ -5,7 +5,7 @@
  * Plugin URI: http://www.flippercode.com
  * Author: Flippercode
  * Author URI: http://www.flippercode.com
- * Version: 1.0 
+ * Version: 1.1 
  */
  
  
