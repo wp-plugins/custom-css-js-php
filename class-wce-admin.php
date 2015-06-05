@@ -244,7 +244,7 @@
 			  
 			  else: 
 			 ?>
-		     <textarea name="data_source" id="data_source"><?php echo $this->getValue('data_source'); ?></textarea>
+		     <textarea rows="6" cols="80" name="data_source" id="data_source"><?php echo $this->getValue('data_source'); ?></textarea>
 			<?php 
 			  
 			  endif; 

@@ -5,7 +5,7 @@
  * Plugin URI: http://www.flippercode.com
  * Author: Flippercode
  * Author URI: http://www.flippercode.com
- * Version: 1.1 
+ * Version: 1.2
  */
  
  
@@ -464,16 +464,7 @@ EOT;
        require_once( ABSPATH . 'wp-admin/includes/upgrade.php' );
        dbDelta( $sql );
        
-       register_uninstall_hook( __FILE__, array( $this, "uninstall" ) );
     }
-    
-   public function uninstall(){
-	
-	global $wpdb;
-	
-	$wpdb->query("DROP TABLE ".$this->table);    
-    
-   } 
    
  }
  

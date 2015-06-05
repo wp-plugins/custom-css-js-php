@@ -17,6 +17,7 @@ your plugins & themes without losing any change. You can define CSS,JS or PHP co
 Now it's super easy to execute your PHP code anywhere on your wordpress site e.g within pages/posts or custom post types. You need not
 write a plugin to integrate additional functionality using actions or filters.  
 
+
 = Features =
 * Implement CSS code using Shortcode
 * Implement CSS code using wp_head()
@@ -53,6 +54,11 @@ This section describes how to install the plugin and get it working.
 5. Add PHP using Shortcode.
 
 == Changelog ==
+
+= 1.2 =
+* Add: uninstall.php to remove tables on uninstall. 
+* Update: Width and height of text area increased.
+
 
 == Donations ==
 
