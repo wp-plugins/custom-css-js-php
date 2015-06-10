@@ -7,7 +7,7 @@ Author URI:        http://profiles.wordpress.org/flippercode/
 Author:            flippercode
 Donate link:       (a link for donating)
 Requires at least: 2.0.0 
-Tested up to:      3.9
+Tested up to:      4.2
 Stable tag:        Apply CSS/JS/PHP using Shortcode, Actions and Fitlers. Extended Functionality of your Themes & Plugins. 
 
 == Description ==
